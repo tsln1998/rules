@@ -1,0 +1,20 @@
+# Java maven repo
+DOMAIN-SUFFIX,gradle.org
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,jboss.org
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN,maven.google.com
+
+# Node.js
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,npmjs.com
+
+# Golang
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,gosum.io
+DOMAIN-SUFFIX,golang.org
+
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io

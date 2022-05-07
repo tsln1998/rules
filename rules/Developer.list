@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,golang.org
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
+DOMAIN,pkg-containers.githubusercontent.com
+DOMAIN,ghcr.io
